@@ -1,6 +1,6 @@
 # Introduction to Programming using Python
 ### Snake Level
-###Clase 02 - Variables
+### Clase 02 - Variables
 
 ![](https://scontent.fvvi1-2.fna.fbcdn.net/v/t1.0-9/60446155_406101693577559_1668674062412414976_o.png?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=woK9Xr5dPN0AX8AnjuE&_nc_ht=scontent.fvvi1-2.fna&oh=849ef2f2f75ae9d64999aa119d09daff&oe=5EAB2184)
 
