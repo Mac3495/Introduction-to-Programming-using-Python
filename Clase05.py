@@ -133,5 +133,3 @@ cadena = 'HOLA MUNDO'
 
 print(cadena.lower())
 
-
-#Calculadora con UI - Calculadora por consola

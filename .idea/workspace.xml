@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9fb6761-60ba-41b8-943a-ae3d9f4968d7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Clase05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Clase05.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,7 +43,7 @@
       <file leaf-file-name="Clase05.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Clase05.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2320">
+            <state relative-caret-position="385">
               <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
             </state>
           </provider>
@@ -403,7 +402,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Clase05.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2320">
+        <state relative-caret-position="385">
           <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
         </state>
       </provider>
