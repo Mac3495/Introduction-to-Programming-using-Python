@@ -31,5 +31,14 @@
 - Diccionarios;
 
 -------------
+### Visto en la clase 5:
+
+- Funciones;
+- Métodos y procedimientos;
+- Parametros de entrada;
+- Modilarización del código;
+- Variables globales y variables locales;
+
+-------------
 
 ### PyData La Paz - Data Science Bolivia
