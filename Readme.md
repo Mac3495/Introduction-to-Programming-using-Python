@@ -47,5 +47,13 @@
 - Variables globales y variables locales;
 
 -------------
+### Visto en la clase 6:
+
+- Instalar bibliotecas en PyCharm;
+- Interfaces de usuario con Tkinter;
+- Gráficos con MatPlotLib;
+- Numpy básico;
+
+-------------
 
 ### PyData La Paz - Data Science Bolivia
